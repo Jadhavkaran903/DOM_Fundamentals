@@ -1,0 +1,29 @@
+/* h1 {
+    color: red;
+}
+
+p {
+    background-color: yellow;
+}
+
+h1,h2,h3,h4,h5 {
+    color: purple;
+    background: yellow;
+}
+
+h1,h3,h5 {
+    color: blue;
+} */
+
+
+/*Class--->Applied to all common element   */
+.greencolour {                       
+    color: green;
+    background: red;
+}
+
+/*Id--->Apllied to only particuler elment  */
+
+#blackcolour {
+    color: skyblue;
+}
